@@ -1,0 +1,36 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.innoquant.moca.phonegap": {
+      "PACKAGE_NAME": "com.proxtopic.abstracta"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.proxtopic.abstracta"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.proxtopic.abstracta"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.proxtopic.abstracta"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.proxtopic.abstracta"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.proxtopic.abstracta"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.proxtopic.abstracta"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.proxtopic.abstracta"
+    }
+  },
+  "dependent_plugins": {}
+}
